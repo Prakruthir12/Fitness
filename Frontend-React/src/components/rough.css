@@ -1,0 +1,30 @@
+.mm{
+        position: absolute;
+        top:210px;
+        margin-left: 500px;
+        background-color: rgb(239, 244, 244);
+        border:1px solid rgb(0, 0, 0);
+        border-color: rgb(225, 221, 221);
+        width: 32.5%;
+        height: 52%;
+}
+  
+.ww{
+    border-color: rgb(225, 221, 221);
+}
+input {
+    width: 90%;
+    padding: 5px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    background-color: rgb(239, 244, 244);
+    font-size: 16px;
+  }
+  
+  input:focus {
+    border: 2px solid #555;
+    outline: none;
+  }
+ 
